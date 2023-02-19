@@ -50,4 +50,4 @@ function addData(request, response) {
     console.log(projectData)
 }
 
-module.exports = app;
+
