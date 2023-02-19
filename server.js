@@ -49,3 +49,5 @@ function addData(request, response) {
     response.end();
     console.log(projectData)
 }
+
+module.exports = app;
